@@ -1,0 +1,8 @@
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\bin\Debug\netstandard2.0\ItSingular.RH.Domain.deps.json
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\bin\Debug\netstandard2.0\ItSingular.RH.Domain.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\bin\Debug\netstandard2.0\ItSingular.RH.Domain.pdb
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\obj\Debug\netstandard2.0\ItSingular.RH.Domain.csprojAssemblyReference.cache
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\obj\Debug\netstandard2.0\ItSingular.RH.Domain.AssemblyInfoInputs.cache
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\obj\Debug\netstandard2.0\ItSingular.RH.Domain.AssemblyInfo.cs
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\obj\Debug\netstandard2.0\ItSingular.RH.Domain.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Domain\obj\Debug\netstandard2.0\ItSingular.RH.Domain.pdb

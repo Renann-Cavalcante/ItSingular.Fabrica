@@ -1,0 +1,13 @@
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Infrastructure.deps.json
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Infrastructure.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Infrastructure.pdb
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Common.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Domain.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Common.pdb
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\bin\Debug\netstandard2.0\ItSingular.RH.Domain.pdb
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\obj\Debug\netstandard2.0\ItSingular.RH.Infrastructure.csprojAssemblyReference.cache
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\obj\Debug\netstandard2.0\ItSingular.RH.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\obj\Debug\netstandard2.0\ItSingular.RH.Infrastructure.AssemblyInfo.cs
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\obj\Debug\netstandard2.0\ItSingular.RH.Infrastructure.csproj.CopyComplete
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\obj\Debug\netstandard2.0\ItSingular.RH.Infrastructure.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Infrastructure\obj\Debug\netstandard2.0\ItSingular.RH.Infrastructure.pdb

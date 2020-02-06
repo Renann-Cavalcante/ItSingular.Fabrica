@@ -1,0 +1,8 @@
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\bin\Debug\netstandard2.0\ItSingular.RH.Common.deps.json
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\bin\Debug\netstandard2.0\ItSingular.RH.Common.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\bin\Debug\netstandard2.0\ItSingular.RH.Common.pdb
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\obj\Debug\netstandard2.0\ItSingular.RH.Common.csprojAssemblyReference.cache
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\obj\Debug\netstandard2.0\ItSingular.RH.Common.AssemblyInfoInputs.cache
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\obj\Debug\netstandard2.0\ItSingular.RH.Common.AssemblyInfo.cs
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\obj\Debug\netstandard2.0\ItSingular.RH.Common.dll
+C:\Users\atoledo\source\repos\ItSingular.RH\ItSingular.RH.Common\obj\Debug\netstandard2.0\ItSingular.RH.Common.pdb
