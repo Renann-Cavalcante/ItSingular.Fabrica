@@ -1,0 +1,226 @@
+@import "https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900";
+.App {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.img-size{
+  width: 275px;
+  margin-bottom: 15px;  
+}
+
+body {
+  background-image: url('../../images/fundo.jpg');
+  background-color: darkgray;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #3E363F;
+  font-family: "Lato", sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.Modal {
+  background: #3E363F;
+  border-radius: 2px;
+  padding: 50px;
+  width: 190px;  
+}
+
+.container-fluid {
+  max-width: 1680px;
+  margin: 0 auto;
+}
+.pagelayout-login #logo {
+  float: none;
+  width: 100%;
+  height: auto;
+  max-width: 175px;
+  display: block;
+  margin: 0 auto 30px;
+}
+
+.Input {
+  display: flex;
+  border: 0;
+  flex-direction: row-reverse;
+  border-bottom: 2px solid rgba(224, 223, 221, 0.1);
+  padding-bottom: 3px;
+  margin-bottom: 10px;
+  background: transparent;
+  font-family: "Lato", sans-serif;
+  color: #FFFCE8;  
+  outline: none; 
+  
+} 
+.Input input{
+  outline: none;
+  border: 0;
+  color: #FFFCE8;
+  background: transparent;
+  font-family: "Lato", sans-serif;
+  flex: 1 0 auto;
+  font-size: 14px;
+  font-weight: 300;
+}
+.Input Input:focus ~ label {
+  opacity: 1;
+}
+.Input Input[type='email'] ~ label::before {
+  content: "\f1fa";
+}
+.Input Input[type='password'] ~ label::before {
+  content: "\f023";
+}
+.Input label {
+  font-family: FontAwesome;
+  font-size: 13px;
+  opacity: .1;
+  transition: opacity .5s ease;
+}
+.Input label::before {
+  align-items: center;
+  color: #FFFCE8;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  width: 30px;
+}
+
+button {
+  align-items: center;
+  background: #DD403A;
+  border: 0;
+  border-radius: 3px;
+  color: white;
+  display: flex;
+  font-family: "Lato", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  justify-content: center;
+  margin-top: 30px;
+  outline: none;
+  padding: 10px 9px 10px 11px;
+  text-transform: uppercase;
+  width: 100%;
+}
+button .fa {
+  font-size: 12px;
+  margin-left: auto;
+  position: relative;
+  top: 1px;
+}
+button:hover {
+  transform: scale(1.02);
+}
+button:active {
+  transform: scale(0.99);
+}
+
+.example-enter {
+  margin-top: 30px;
+  opacity: .01;
+}
+.example-enter.example-enter-active {
+  margin-top: 0px;
+  opacity: 1;
+  transition: opacity .5s ease, margin .5s ease;
+}
+
+.example-leave {
+  margin-top: 0px;
+  opacity: 1;
+}
+.example-leave.example-leave-active {
+  margin-top: -30px;
+  opacity: .01;
+  transition: opacity .3s ease, margin .5s ease;
+}
+
+.logo {  
+  position: absolute;
+  left: 575px;
+  top: 150px;
+}
+.input-login{
+  width: 200px;
+  height: 20px;   
+  position: absolute;
+  left: 77px;
+  top: 22px;
+  
+}
+.input-senha{
+  width: 200px;
+  height: 20px; 
+  margin-top: 16px;
+  position: absolute;
+  left: 77px;
+  top: 54px;
+}
+.div-input{
+  width: 200px;
+  height: 20px; 
+  position: absolute;
+  left: 77px;
+  top: 22px;
+}
+.div-login{
+  background-color: crimson;
+  position: absolute;
+  left: 539px;
+  top: 300px;
+  height: 170px;
+  width: 300px;
+  font-size: 10;
+  border: black;
+  
+  
+}
+.div-label{
+  height: 30px;
+  width: 80px;
+}
+
+p{
+  font-size: 20px;
+  color: black;
+    
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
